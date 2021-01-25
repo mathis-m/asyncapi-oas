@@ -1,0 +1,24 @@
+{
+  "name": "asyncapi-oas",
+  "version": "1.0.0",
+  "description": "npm package for converting asyncapi to OpenApi Specification",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathis-m/asyncapi-oas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathis-m/asyncapi-oas/issues"
+  },
+  "homepage": "https://github.com/mathis-m/asyncapi-oas#readme",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
